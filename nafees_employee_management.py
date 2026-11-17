@@ -1,5 +1,3 @@
-employee_database = []
-
 def add_employee(employee_name, employee_id, salary):
     """
     Adds a new employee to the employee database.
